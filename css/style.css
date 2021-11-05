@@ -130,6 +130,7 @@
             font-size: 25px;
             margin-right: 20px;
             cursor: pointer;
+			font-size:xx-large;
             transition: transform 0.2s;
 
         }
@@ -232,8 +233,28 @@
            
         }
 
-.media a:hover {
+.media a i:hover {
 text-decoration:none;
 background-color: #1971b9;
 border-radius: 5px;
-}        
+}       
+
+.media a .fa-stack {
+  font-size: 13px;
+}
+
+.media a .outside {
+  font-size: 25px;
+}
+
+.media a .inside {
+  font-size: 17px;
+  color: #1B3764;
+}
+
+.media a:hover .inside {
+  color: #1971b9;
+}
+.fa{
+	font-size:xx-large;
+}
