@@ -72,11 +72,11 @@
                 <p>We offer the following: services<ul>
 					<li>Property Management System</i>
 					<li>invintory</li>
-                    <li>clinicmanagement</li>
-                    <li>sales</li>
-                    <li>purchase</li>
-                    <li>accounting</li>
-                    <li>hr</li>
+                    <li>Clinic Management</li>
+                    <li>Sales</li>
+                    <li>Purchase</li>
+                    <li>Accounting</li>
+                    <li>Hr</li>
                 </ul></p>
                 
 <p align="center"><strong>Our Mission</strong>
